@@ -1,7 +1,7 @@
 ### Hey there 👋
 
 
-I am a Ph.D. Candidate at VU Amsterdam University. I am working, as part of the AssureMOSS European project, at the detection and mitigation of vulnerabilities for FOSS (Free and Open-source Software packages). More info here: https://assuremoss.eu/
+I am a Ph.D. Candidate at VU Amsterdam. I am working, as part of the AssureMOSS European project, at dynamic risk assessment for FOSS (Free and Open-source Software packages). More info here: https://assuremoss.eu/
 
 I hold a Double Master's degree in Cyber Security and a Bachelor's degree in Computer Science.
 
