@@ -1,7 +1,7 @@
 ### Hey there 👋
 
 
-I am a Ph.D. Candidate at VU Amsterdam working, as part of the AssureMOSS European project, on microservices and containers (Kubernetes and Docker) security. More info here: https://assuremoss.eu/
+I am a Ph.D. Candidate at VU Amsterdam working, as part of the AssureMOSS European project, on microservices and containers (Kubernetes and Docker) static and runtime security. More info here: https://assuremoss.eu/
 
 You can find my previous publications on Google Scholar: https://scholar.google.com/citations?user=Vg42tTAAAAAJ&hl=en&oi=ao
 
